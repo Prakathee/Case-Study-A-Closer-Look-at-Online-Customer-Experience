@@ -1,0 +1,3 @@
+Red Ventures is a marketing company partnering with a telecommunications company to optimize customer acquisition through the telecom company's website. The company is focused on improving the customer experience to increase sales. The data collected over a two-week period in 2018 reveals insights into visitor behavior and preferences. 
+
+I have used tableau to perform Data Analysis on the data to help the Red Ventures to identify customer segments preferring online carts versus phone-based sales and target them with tailored website experiences, leading to improved customer experience and increased sales.
